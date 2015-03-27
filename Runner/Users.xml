@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfUser xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <User Id="5c5f30b1-4f00-4e31-8072-845002e25b79">
+    <Login>Anton1123</Login>
+    <Password>test123</Password>
+  </User>
+  <User Id="2251cf5d-ecb8-437b-bca2-3aaeafe5e9a2">
+    <Login>Anton2</Login>
+    <Password>password2</Password>
+  </User>
+  <User Id="bc7f8ed9-430e-4812-8b1f-11b32841cc9f">
+    <Login>Anton3</Login>
+    <Password>password3</Password>
+  </User>
+  <User Id="bc7f8ed7-430e-4812-8b1f-11b32841cc9f">
+    <Login>Anton4</Login>
+    <Password>password4</Password>
+  </User>
+  <User Id="15fe41d1-6fc4-4e4a-9a5e-33690dc2b78e">
+    <Login>Anton5</Login>
+    <Password>password5</Password>
+  </User>
+</ArrayOfUser>
